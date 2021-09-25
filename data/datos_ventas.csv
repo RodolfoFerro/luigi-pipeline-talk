@@ -1,0 +1,11 @@
+﻿PAIS,EDAD,SALARIO,COMPRA
+Francia,44,72000,No
+España,27,48000,Yes
+Alemania,30,54000,No
+España,38,61000,No
+Alemania,40,,Yes
+Francia,35,58000,Yes
+España,,52000,No
+Francia,48,79000,Yes
+Alemania,50,83000,No
+Francia,37,67000,Yes
