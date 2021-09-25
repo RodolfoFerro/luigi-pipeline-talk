@@ -290,3 +290,23 @@ st.dataframe(y)
 
 # Data modelling
 st.header("Modelado de datos")
+st.markdown(
+    """
+    Se puede modelar de manera sencilla utilizando una máquina de soporte
+    vectorial (SVM) con el siguiente código:
+
+    ```python
+    from sklearn.svm import SVC
+
+    clf = svm.SVC(kernel='rbf')
+    clf.fit(x, y)
+    ```
+
+    Una vez entrenado el modelo, puedes predecir nuevos valores.
+
+    ```python
+    clf.predict([[1.5275, -0.6547, -0.8165, 1.6308, 1.7521]])
+    # array(['No'], dtype=object)
+    ```
+    """
+)
