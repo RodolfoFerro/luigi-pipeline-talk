@@ -23,7 +23,7 @@ Este repo ilustra un proceso sencillo de automatización de transformación y mo
 
 ## Idea
 
-El proceso completo es descrito en una app interactiva que encuentras en el script `app.py`. Cehca los detalles de cómo levantar la app en la sección de cómo ejecutar los scripts.
+El proceso completo es descrito en una app interactiva que encuentras en el script `app.py`. Checa los detalles de cómo levantar la app en la sección de cómo ejecutar los scripts.
 
 ## Setup
 
