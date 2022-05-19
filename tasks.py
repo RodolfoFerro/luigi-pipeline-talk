@@ -1,6 +1,6 @@
 # ==============================================================
 # Author: Rodoflo Ferro
-# Twitter: @FerroRodolfo
+# Twitter: @rodo_ferro
 #
 # ABOUT COPYING OR USING PARTIAL INFORMATION:
 # This script has been originally created by Rodolfo Ferro.
